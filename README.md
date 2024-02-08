@@ -19,7 +19,7 @@ This project has been developed with the following technologies:
 
 ## To Execute
 
-In order to execute this application on your computer, you'll need [Node.js](https://nodejs.org/en) installed on your machine.
+In order to execute this application, you'll need [Node.js](https://nodejs.org/en) installed on your computer.
 
 ```bash
   git clone https://github.com/andresilveira1/expert-notes.git
